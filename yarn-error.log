@@ -1,0 +1,36 @@
+Arguments: 
+  /Users/adeyahya/.volta/tools/image/node/14.18.1/bin/node /Users/adeyahya/.volta/tools/image/yarn/1.22.17/bin/yarn.js init
+
+PATH: 
+  /Users/adeyahya/.volta/tools/image/npm/6.14.15/bin:/Users/adeyahya/.volta/tools/image/yarn/1.22.17/bin:/Users/adeyahya/.volta/tools/image/node/14.18.1/bin:/Users/adeyahya/.volta/bin:/usr/local/opt/openjdk/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/go/bin:/Library/Apple/usr/bin:/Users/adeyahya/.volta/bin:/usr/local/opt/openjdk/bin:/Users/adeyahya/ssi-gopath-symlink/bin:/Users/adeyahya/ssi-gopath-symlink/bin:/usr/local/go/bin
+
+Yarn version: 
+  1.22.17
+
+Node version: 
+  14.18.1
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: canceled
+      at Interface.<anonymous> (/Users/adeyahya/.volta/tools/image/yarn/1.22.17/lib/cli.js:137143:13)
+      at Interface.emit (events.js:400:28)
+      at Interface._ttyWrite (readline.js:1001:16)
+      at ReadStream.onkeypress (readline.js:265:10)
+      at ReadStream.emit (events.js:400:28)
+      at emitKeys (internal/readline/utils.js:358:14)
+      at emitKeys.next (<anonymous>)
+      at ReadStream.onData (readline.js:1270:36)
+      at ReadStream.emit (events.js:400:28)
+      at addChunk (internal/streams/readable.js:293:12)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

@@ -1,0 +1,7 @@
+{
+  "name": "@streamup/server",
+  "version": "1.0.0",
+  "description": "stream up server",
+  "main": "index.js",
+  "license": "MIT"
+}

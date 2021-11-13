@@ -1,0 +1,17 @@
+{
+  "name": "streamup",
+  "version": "1.0.0",
+  "description": "stream upload library",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.7",
+    "typescript": "^4.4.4"
+  }
+}
